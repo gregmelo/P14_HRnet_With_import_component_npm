@@ -10,7 +10,7 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "@faker-js/faker": "^9.6.0",
+    "@faker-js/faker": "^10.6.0",
     "@gregmelo/custom-datepicker-component": "^1.0.8",
     "@gregmelo/modal-component": "^1.0.18",
     "@reduxjs/toolkit": "^2.6.1",
